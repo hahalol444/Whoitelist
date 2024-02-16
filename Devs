@@ -4,8 +4,7 @@ WhitelistedDevs =
 618386903,
 1773289555,
 -1,
-3819377309,
-1177477327 -- tim temp
+3819377309
 }
 
 return WhitelistedDevs
